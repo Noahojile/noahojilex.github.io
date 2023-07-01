@@ -1,0 +1,16 @@
+body {
+    background-color: #ffffff;
+    text-align: center;
+    padding-top: 20px;
+  }
+  
+  h1 {
+    font-family: monospace;
+    font-weight: bold;
+    color: rgb(0, 113, 151);
+  }
+  
+  h3 {
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+  }
